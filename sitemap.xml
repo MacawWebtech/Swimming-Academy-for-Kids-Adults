@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace https://your-domain.example/ with the academy's production domain. -->
+  <url><loc>https://your-domain.example/index.html</loc></url>
+  <url><loc>https://your-domain.example/pages/index-2.html</loc></url>
+  <url><loc>https://your-domain.example/pages/programs.html</loc></url>
+  <url><loc>https://your-domain.example/pages/about.html</loc></url>
+  <url><loc>https://your-domain.example/pages/coaches.html</loc></url>
+  <url><loc>https://your-domain.example/pages/coach-details.html</loc></url>
+  <url><loc>https://your-domain.example/pages/batch-timings.html</loc></url>
+  <url><loc>https://your-domain.example/pages/book-now.html</loc></url>
+  <url><loc>https://your-domain.example/pages/facilities.html</loc></url>
+  <url><loc>https://your-domain.example/pages/gallery.html</loc></url>
+  <url><loc>https://your-domain.example/pages/pricing.html</loc></url>
+  <url><loc>https://your-domain.example/pages/blog.html</loc></url>
+  <url><loc>https://your-domain.example/pages/contact.html</loc></url>
+</urlset>
