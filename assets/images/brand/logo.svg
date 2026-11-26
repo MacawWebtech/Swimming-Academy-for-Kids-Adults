@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="Wavecrest Swimming Academy">
+<defs><linearGradient id="wcg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A93C2"/><stop offset="1" stop-color="#063B5C"/></linearGradient></defs>
+<circle cx="32" cy="32" r="32" fill="url(#wcg)"/>
+<circle cx="32" cy="13.5" r="3.6" fill="#35C6D9"/>
+<path d="M14 23.5 22.5 43 32 27.5 41.5 43 50 23.5" fill="none" stroke="#fff" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13 52c4.8-4.4 9.6-4.4 14.4 0s9.6 4.4 14.4 0 6.4-3 9.2-1.6" fill="none" stroke="#35C6D9" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="78" y="36" font-family="Sora,Arial,Helvetica,sans-serif" font-weight="800" font-size="27" letter-spacing="-1" fill="#063B5C">WAVECREST</text>
+<text x="79" y="52" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="600" font-size="9.5" letter-spacing="2.4" fill="#087EAA">SWIMMING ACADEMY</text>
+</svg>

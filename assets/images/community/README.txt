@@ -1,0 +1,1 @@
+Testimonial / community photos (400x400 JPG). Replace these placeholder avatars with approved member photos using the same file names, or update the paths in assets/js/main.js. Confirm consent before publishing photos of identifiable people, especially children.
